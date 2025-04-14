@@ -1,17 +1,17 @@
-programa
-{
-	
-	funcao inicio()
-	{
-		escreva("Olá Mundo")
-	}
-}
+programa { 
+  
+  inclua biblioteca Matematica -->Mat
+  inclua biblioteca Util --> u
+  funcao inicio() { 
+
+    real n1,n2	
+    cadeia conta
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 12; 
+ * @POSICAO-CURSOR = 126; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
